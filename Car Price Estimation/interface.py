@@ -174,18 +174,6 @@ def export_data():
     top.title("Sucessfully exported")
     Label(top, text="Data succesfully \nexported to \n'output.json'.", font="Verdana 16").place(rely=0.45)
 
-def inport_data():
-
-    global results
-    global page
-
-    f = open("output.json", "r")
-    results = f.read()
-    f.close()
-    results = eval(results)
-    page = 0
-    fill_table()
-    head2.config(text=f"Estimation Results: {len(results)} entry")
 
 get_prices_button = Button(frame_alt_sag, text="Export Data ", height=3, width=10, command=export_data)
 get_prices_button.pack(anchor=SE,pady=5,padx=15,side=RIGHT)
