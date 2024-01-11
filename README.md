@@ -42,10 +42,7 @@ print(results)
 
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/74848be5-6f63-41a2-ba35-a0502af3abd7)
 
-
-
-
-
+![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/965f3982-7b8a-4253-a167-cae46689860d)
 
 
 
@@ -54,12 +51,4 @@ print(results)
 
 To install the required libraries, run the following command:
 
-```bash
-
-
-
-
-
-
-
-pip install requests beautifulsoup4
+```bash pip install requests beautifulsoup4
