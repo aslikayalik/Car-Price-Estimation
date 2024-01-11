@@ -18,26 +18,25 @@ print(results)
 
 
 ## Project Demonstration
-- On this page, the user can choose the car’s features
 
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/b670b956-c62d-4d2c-a39e-1de5de108809)
 
-- When the user clicks on the brand select button, all brands appear for her/him.
- Suggested brands are shown below after you click to the brand bar.
 
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/597f54ef-c325-4380-b2af-3d865ac6b18d)
 
 
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/4b21860b-ad5b-4860-8d86-7b75aa6bf9a4)
 
+
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/2df41a85-4daa-48e2-ae44-b0673aff3a94)
+
 
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/7cc92e70-ab05-4b4b-9b49-42c51cbef55c)
 
-- The user can see the cars after choosing the one user wants according to the parameters which entered.
+
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/c374b33d-671d-4282-a5aa-be54548df65a)
 
-- Data can easily export to ‘output.json’.
+
 ![image](https://github.com/aslikayalik/Car-Price-Estimation/assets/96055823/d474642f-ca83-47f8-8cb4-38717b3715d9)
 
 
