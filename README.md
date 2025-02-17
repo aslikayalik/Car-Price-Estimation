@@ -53,4 +53,4 @@ print(results)
 To install the required libraries, run the following command:
 
 ```bash
-pip install requests beautifulsoup4
+pip install requests beautifulsoup4 
